@@ -1,0 +1,3 @@
+BACKEND_API_URL: backend.sathishreddy.online
+component: frontend
+app_location: /usr/share/nginx/html
