@@ -2,7 +2,7 @@
   hosts: all
   connection: local
   vars_files:
-  - "variables-{{ env }}.yml"
+  - "variables-{{ evnironment }}.yml"
   become: yes
   roles:
   - "{{ component }}"
